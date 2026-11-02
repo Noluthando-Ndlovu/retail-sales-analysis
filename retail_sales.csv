@@ -1,0 +1,25 @@
+Month,Year,Sales_ZAR,Region,Product_Category
+Jan,2023,45000,Gauteng,Electronics
+Feb,2023,48000,Western Cape,Groceries
+Mar,2023,52000,KZN,Clothing
+Apr,2023,49000,Gauteng,Electronics
+May,2023,55000,Gauteng,Electronics
+Jun,2023,62000,Western Cape,Groceries
+Jul,2023,68000,KZN,Clothing
+Aug,2023,65000,Gauteng,Electronics
+Sep,2023,60000,Gauteng,Groceries
+Oct,2023,72000,Western Cape,Clothing
+Nov,2023,85000,KZN,Electronics
+Dec,2023,95000,Gauteng,Groceries
+Jan,2024,50000,Gauteng,Electronics
+Feb,2024,53000,Western Cape,Groceries
+Mar,2024,58000,KZN,Clothing
+Apr,2024,54000,Gauteng,Electronics
+May,2024,60000,Gauteng,Electronics
+Jun,2024,68000,Western Cape,Groceries
+Jul,2024,74000,KZN,Clothing
+Aug,2024,71000,Gauteng,Electronics
+Sep,2024,66000,Gauteng,Groceries
+Oct,2024,78000,Western Cape,Clothing
+Nov,2024,92000,KZN,Electronics
+Dec,2024,105000,Gauteng,Groceries
